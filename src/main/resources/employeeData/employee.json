@@ -1,0 +1,16 @@
+[
+  {
+    "id": "OL53216A",
+    "name": "Georg Wilhelm Friedrich Hegel",
+    "designation": "CEO",
+    "salary": 123,
+    "active": true
+  },
+  {
+    "id": "OL53216A",
+    "name": "Georg Wilhelm Friedrich Hegel",
+    "designation": "SE",
+    "salary": 123,
+    "active": true
+  }
+]
